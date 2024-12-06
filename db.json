@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Joe Smith",
+      "email": "joe@gmail.com",
+      "role": "User",
+      "id": "2ff7"
+    },
+    {
+      "id": "5613",
+      "name": "Jane Warner",
+      "email": "janewarner@yahoo.com",
+      "role": "User"
+    }
+  ],
+  "roles": [
+    {
+      "name": "Admin",
+      "permissions": [
+        "read",
+        "write"
+      ],
+      "id": "d33f"
+    },
+    {
+      "id": "8b02",
+      "name": "Editor",
+      "permissions": [
+        "Edit"
+      ]
+    }
+  ]
+}
